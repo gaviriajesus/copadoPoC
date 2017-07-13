@@ -287,7 +287,7 @@
         <fullName>Test_Copado__c</fullName>
         <externalId>false</externalId>
         <label>Test Copado</label>
-        <length>10000</length>
+        <length>15000</length>
         <trackFeedHistory>false</trackFeedHistory>
         <type>LongTextArea</type>
         <visibleLines>3</visibleLines>
