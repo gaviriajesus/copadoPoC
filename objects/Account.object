@@ -159,6 +159,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Dev04Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Dev04Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DunsNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -307,7 +317,7 @@
         <fullName>Test_Copado__c</fullName>
         <externalId>false</externalId>
         <label>Test Copado</label>
-        <length>15000</length>
+        <length>3200</length>
         <trackFeedHistory>false</trackFeedHistory>
         <type>LongTextArea</type>
         <visibleLines>3</visibleLines>
