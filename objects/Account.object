@@ -307,11 +307,10 @@
         <fullName>Test_Copado__c</fullName>
         <externalId>false</externalId>
         <label>Test Copado</label>
-        <length>255</length>
-        <required>false</required>
+        <length>5580</length>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
     </fields>
     <fields>
         <fullName>TickerSymbol</fullName>

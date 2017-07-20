@@ -27,7 +27,7 @@
         <enableSMSIdentity>true</enableSMSIdentity>
         <enableXssProtection>true</enableXssProtection>
         <enforceIpRangesEveryRequest>false</enforceIpRangesEveryRequest>
-        <forceLogoutOnSessionTimeout>true</forceLogoutOnSessionTimeout>
+        <forceLogoutOnSessionTimeout>false</forceLogoutOnSessionTimeout>
         <forceRelogin>true</forceRelogin>
         <lockSessionsToDomain>true</lockSessionsToDomain>
         <lockSessionsToIp>false</lockSessionsToIp>
