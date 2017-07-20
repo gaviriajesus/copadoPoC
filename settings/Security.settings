@@ -13,7 +13,7 @@
         <questionRestriction>DoesNotContainPassword</questionRestriction>
     </passwordPolicies>
     <sessionSettings>
-        <disableTimeoutWarning>false</disableTimeoutWarning>
+        <disableTimeoutWarning>true</disableTimeoutWarning>
         <enableCSPOnEmail>true</enableCSPOnEmail>
         <enableCSRFOnGet>true</enableCSRFOnGet>
         <enableCSRFOnPost>true</enableCSRFOnPost>
@@ -27,11 +27,11 @@
         <enableSMSIdentity>true</enableSMSIdentity>
         <enableXssProtection>true</enableXssProtection>
         <enforceIpRangesEveryRequest>false</enforceIpRangesEveryRequest>
-        <forceLogoutOnSessionTimeout>true</forceLogoutOnSessionTimeout>
+        <forceLogoutOnSessionTimeout>false</forceLogoutOnSessionTimeout>
         <forceRelogin>true</forceRelogin>
         <lockSessionsToDomain>true</lockSessionsToDomain>
         <lockSessionsToIp>false</lockSessionsToIp>
         <securityCentralKillSession>true</securityCentralKillSession>
-        <sessionTimeout>TwoHours</sessionTimeout>
+        <sessionTimeout>TwentyFourHours</sessionTimeout>
     </sessionSettings>
 </SecuritySettings>
