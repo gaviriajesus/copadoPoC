@@ -25,7 +25,7 @@ workflows/copado__*
 # Below is how to ignore them
 
 #profiles/*
-Permissionsets/*
+#Permissionsets/*
 
 #Translations are complex since get updated indirectly across multiple files, they can make a deployment fail
 #if a field is translated in source and it doesn't exist on destination. 
