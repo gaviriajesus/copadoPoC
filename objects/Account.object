@@ -115,7 +115,7 @@
         <fullName>Custom_field__c</fullName>
         <externalId>false</externalId>
         <label>Custom field</label>
-        <length>255</length>
+        <length>80</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
