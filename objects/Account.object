@@ -221,7 +221,7 @@
         <fullName>New_Field_Test__c</fullName>
         <externalId>false</externalId>
         <label>New Field Test</label>
-        <length>255</length>
+        <length>100</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
