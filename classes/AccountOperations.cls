@@ -1,9 +1,8 @@
 public class AccountOperations {
     public static Account setDefaultDescription(Account a) {
-        a.Description = 'Default Description';
+        a.Description = 'Default Description A';
         if(true)
-        system.debug(a+'This is the required debug Line');
-        system.debug(a+'ABCDe');
+        system.debug(a+'Pull Request Test');
         return a;
 
     }
